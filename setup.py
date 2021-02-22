@@ -18,8 +18,8 @@ setup(
     url='https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis',
 
 
-    author='Muhammad Ali Zia',
-    author_email='muhammad.17ali@gmail.com',
+    author='NaveenNavii',
+    author_email='naveennavimlm@gmail.com',
 
 
     classifiers=[
